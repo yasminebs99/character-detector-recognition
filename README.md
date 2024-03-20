@@ -8,7 +8,7 @@
 </p>
 
 <h1>Task-1 :Character Detector Recognition</h1>
-<p>This is the link to the YouTube video to see the solution: <a href="https://youtu.be/3on7SX-9014">youtube</a></p>
+<p>This is the link to the YouTube video to see the solution: <a href="https://youtu.be/P6UNZ3hujoM">youtube</a></p>
 <ul>
   <li>Implement an object detector that identifies the classes of the objects in an image or video.</li>
   <li>OR character detector, which extracts printed or handwritten text from an image or video</li>
